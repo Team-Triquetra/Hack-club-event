@@ -1,0 +1,1 @@
+{"name":"TRIQUETRA","age":"20","diag_type":"General","Bedno":"230","Coords":"20,34","wardno":"AB24","block":"B","author":"Triquetra","dependencies":{"csv-parse":"^5.0.4","csv-parser":"^3.0.0","express":"^4.17.3","express-rate-limit":"^6.3.0","helmet":"^5.0.2","ipfs-http-client":"^56.0.2"}}
